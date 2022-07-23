@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django_rev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/All_django_user_auth_details.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/bookstore/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/core/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/core/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/core/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Admin_CUstomization/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/classbasedrevproj1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/classbasedrevproj1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/classbasedrevproj1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/classbasedrevproj1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/classbasedrevproj1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/templates/core/emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classbasedrevproj1/templates/core/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Django_Admin_CUstomization/blog/apps.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Admin_CUstomization/core/settings.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CFXCbKPfLEoj6QixdjvIOHqOqA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/611903295/.virtualenvs/django_rev-Y70xm7m4/Scripts/python.exe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="" />
+      <created>1658399180284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658399180284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
