@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="All Django_rev commits">
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/static/core/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/static/core/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/templates/core/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/templates/core/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/templates/core/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_Application_rev/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_pagination/core/templates/core/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_pagination/core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658534672362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All Django_rev commits">
+      <created>1658715088689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658715088689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
