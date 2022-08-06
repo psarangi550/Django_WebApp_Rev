@@ -36,5 +36,5 @@ class HomeDest(TemplateView):
         context = super().get_context_data(**kwargs)
         print(kwargs)
         # context["emp"] = Employee.objects.get(pk=kwargs.get("id"))
-        context["emp"] = get_object_or_404(Employee,pk=kwargs.get("id"))
+        context["emp"] = get_object_or_404(Employee,pk=kwargs["id"])
         return context

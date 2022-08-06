@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="All Django_rev commits" />
+    <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="All Django_rev commits">
+      <change afterPath="$PROJECT_DIR$/Django_Redirect_class_based_View/core/templates/core/dest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Redirect_class_based_View/core/templates/core/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_classbased_pagination/core/templates/core/book_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/django_rev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_rev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classbasedrevproj1/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/classbasedrevproj1/core/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +29,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Django_Admin_CUstomization/blog/apps.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Django_Admin_CUstomization/core/settings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Interview/core/admin.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Interview/core/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Interview/interview/settings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Redirect_class_based_View/cbv/settings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Django_Redirect_class_based_View/core/models.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,17 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/611903295/.virtualenvs/django_rev-Y70xm7m4/Scripts/python.exe&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/611903295/.virtualenvs/django_rev-Y70xm7m4/Scripts/python.exe",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\611903295\Downloads\django_rev\Django_Redirect_class_based_View\core\templates\core" />
       <recent name="C:\Users\611903295\Downloads\django_rev\Django_CRUD_Application_rev\core\static\core\css" />
     </key>
   </component>
@@ -85,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659202046257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All Django_rev commits">
+      <created>1659202835924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659202835924</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
