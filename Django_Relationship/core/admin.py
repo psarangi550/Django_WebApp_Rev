@@ -1,11 +1,15 @@
 from django.contrib import admin
-from .models import Equipment, PACSData
+from .models import Equipment, PACSData,WFMTInfo
 
 
 # Register your models here.
 @admin.register(Equipment)
 class EquipAdmin(admin.ModelAdmin):
     list_display = ["id", "cp_number", "sne_id", "trs_area"]
+
+@admin.register(WFMTInfo)
+class WFMTAdmin(admin.ModelAdmin):
+    list_display = ["id","scheme_number","equipment","owner"]
 
 
 @admin.register(PACSData)
