@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="All Django_rev commits">
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/static/core/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/static/core/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/signal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Middleware/core/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Middleware/core/templates/core/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_ListClass_View/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_ListClass_View/core/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -131,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659816069603</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All Django_rev commits">
+      <created>1660470226442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660470226442</updated>
+    </task>
+    <task id="LOCAL-00009" summary="All Django_rev commits">
+      <created>1660470244833</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660470244833</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
