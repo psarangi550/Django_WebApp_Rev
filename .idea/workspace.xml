@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6040496-4d7f-40d4-b56a-a9f8b5c7adf1" name="Changes" comment="All Django_rev commits">
-      <change afterPath="$PROJECT_DIR$/Django_Custom_Path_convertor/core/convertor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_ListClass_View/core/templates/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_ListClass_View/core/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Relationship/core/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_Signals/core/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/static/core/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/static/core/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_CRUD_class_based/core/templates/core/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/signal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Form_Class_based/core/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Relationship/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Relationship/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Relationship/core/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Relationship/core/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Relationship/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Relationship/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Relationship/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Relationship/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_ListClass_View/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_ListClass_View/core/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -53,16 +55,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/611903295/.virtualenvs/django_rev-Y70xm7m4/Scripts/python.exe&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/611903295/Downloads/django_rev/Django_CRUD_class_based/core",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\611903295\Downloads\django_rev\Django_CRUD_class_based\core" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\611903295\Downloads\django_rev\Django_Redirect_class_based_View\core\templates\core" />
       <recent name="C:\Users\611903295\Downloads\django_rev\Django_CRUD_Application_rev\core\static\core\css" />
